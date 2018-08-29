@@ -5,6 +5,7 @@
 # Davin's First CS193 Lab
 - I like the instructors
 - I like working on computers
+- I like not being in a typical classroom setting
 
 [Link](url) and ![Image](src)
 ```
