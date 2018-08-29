@@ -5,15 +5,6 @@
 # Davin's First CS193 Lab
 - I like the instructors
 - I like working on computers
-- Better than being in a classroom setting
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
