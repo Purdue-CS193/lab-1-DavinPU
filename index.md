@@ -2,13 +2,6 @@
 - Student in Data Science department at Purdue
 - Freshman, anticipated graduation in 2022
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Davin's First CS193 Lab
 - I like the instructors
 - I like working on computers
