@@ -1,3 +1,7 @@
+**Davin Miller**
+- Student in Data Science department at Purdue
+- Freshman, anticipated graduation in 2022
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
